@@ -1,0 +1,187 @@
+{
+  "fullName": "Vincent Yeboah",
+  "nickname": "Believer",
+  "logoIcon": "fas fa-user-graduate",
+  "hero": {
+    "title": "Vincent Yeboah (Believer)",
+    "typingTexts": [
+      "General Arts Student at Toase Senior High School",
+      "Specializing in Elective Mathematics & ICT",
+      "Passionate about Web Design & Ethical Hacking",
+      "Future Technology Innovator"
+    ]
+  },
+  "slideshow": [
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1517077304055-6e89abbf09b0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2069&q=80",
+      "title": "Vincent Yeboah",
+      "subtitle": "General Arts Student | Future Technology Leader"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2071&q=80",
+      "title": "Academic Excellence",
+      "subtitle": "Specializing in Mathematics & ICT at Toase Senior High"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1532094349884-543bc11b234d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Technology Passion",
+      "subtitle": "Exploring Web Design & Ethical Hacking"
+    },
+    {
+      "imageUrl": "https://images.unsplash.com/photo-1523240795612-9a054b0db644?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Future Vision",
+      "subtitle": "Building a Career in Technology Innovation"
+    }
+  ],
+  "about": {
+    "title": "Hello! I'm Vincent Yeboah (Believer)",
+    "description1": "I'm a dedicated student currently pursuing General Arts at Toase Senior High School. Originally from Manso Nkwanta, I now reside in Ohwim, where I balance my academic pursuits with my passion for technology.",
+    "description2": "My journey in education has led me to develop a strong interest in Elective Mathematics and Information Communication Technology (ICT). I believe in the power of education to transform lives and create opportunities for growth and development.",
+    "profileImage": "assets/profile-image.png",
+    "personalInfo": [
+      { "icon": "fas fa-home", "label": "Hometown", "value": "Manso Nkwanta" },
+      { "icon": "fas fa-map-marker-alt", "label": "Current Location", "value": "Ohwim" },
+      { "icon": "fas fa-school", "label": "School", "value": "Toase Senior High" },
+      { "icon": "fas fa-book", "label": "Program", "value": "General Arts" }
+    ],
+    "skills": [
+      { "name": "Mathematics", "progress": 85 },
+      { "name": "ICT", "progress": 90 },
+      { "name": "Web Design", "progress": 75 },
+      { "name": "Problem Solving", "progress": 80 }
+    ]
+  },
+  "projects": [
+    {
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Personal Portfolio Website",
+      "description": "A responsive and interactive portfolio website showcasing my skills, projects, and achievements. Built with modern web technologies and featuring dark mode, smooth animations, and contact form functionality.",
+      "tech": ["HTML5", "CSS3", "JavaScript", "Responsive Design"],
+      "liveUrl": "#",
+      "sourceUrl": "#"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1635070041078-e363dbe005cb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Advanced Math Calculator",
+      "description": "A comprehensive calculator application that solves complex mathematical problems including algebra, geometry, and calculus. Features a user-friendly interface with step-by-step solutions.",
+      "tech": ["JavaScript", "Mathematics", "UI/UX Design", "Algorithms"],
+      "liveUrl": "#",
+      "sourceUrl": "#"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1588072432836-e10032774350?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
+      "title": "School Management System",
+      "description": "A web-based application designed to help schools manage student records, attendance, and academic performance. Includes features for teachers, students, and administrators.",
+      "tech": ["Web Development", "Database", "PHP", "MySQL"],
+      "liveUrl": "#",
+      "sourceUrl": "#"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Cybersecurity Awareness Platform",
+      "description": "An educational platform that teaches basic cybersecurity concepts and ethical hacking principles. Includes interactive tutorials and simulated security scenarios for learning purposes.",
+      "tech": ["Cybersecurity", "Education", "Web App", "Interactive Learning"],
+      "liveUrl": "#",
+      "sourceUrl": "#"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80",
+      "title": "Mobile Math Learning App",
+      "description": "A mobile application that helps students learn mathematics through interactive exercises, video tutorials, and personalized learning paths. Designed specifically for high school curriculum.",
+      "tech": ["Mobile Development", "React Native", "Mathematics", "Education"],
+      "liveUrl": "#",
+      "sourceUrl": "#"
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80",
+      "title": "Community Information Portal",
+      "description": "A web portal that provides information and resources for my local community. Features news updates, event calendars, and educational resources to help community members stay informed.",
+      "tech": ["Community", "Web Development", "Content Management", "Social Impact"],
+      "liveUrl": "#",
+      "sourceUrl": "#"
+    }
+  ],
+  "achievements": [
+    { "label": "Mathematics Score", "target": 95 },
+    { "label": "Projects Completed", "target": 6 },
+    { "label": "Years of Study", "target": 2 },
+    { "label": "Certificates", "target": 3 }
+  ],
+  "education": {
+    "title": "Academic Journey",
+    "description1": "I'm currently a student at Toase Senior High School, where I'm studying General Arts. This program has allowed me to explore a diverse range of subjects while focusing on my areas of strength and interest.",
+    "description2": "My academic path is carefully designed to build a strong foundation for my future career in technology, combining analytical thinking from mathematics with practical skills from ICT.",
+    "subjects": [
+      { "icon": "fas fa-calculator", "title": "Elective Mathematics", "level": "Advanced Level" },
+      { "icon": "fas fa-globe-africa", "title": "Geography", "level": "Advanced Level" },
+      { "icon": "fas fa-laptop-code", "title": "Elective ICT", "level": "Advanced Level" },
+      { "icon": "fas fa-book", "title": "Core Subjects", "level": "English, Math, Science, Social Studies" }
+    ],
+    "specializations": [
+      {
+        "title": "Elective Mathematics",
+        "description": "I have a strong aptitude for mathematical concepts, problem-solving, and analytical thinking. This subject helps me develop logical reasoning skills that are essential for technology fields."
+      },
+      {
+        "title": "Elective ICT",
+        "description": "My passion for technology finds its expression in ICT studies. I'm learning about computer systems, programming fundamentals, and digital literacy that form the foundation for my future career."
+      }
+    ]
+  },
+  "certificates": [
+    {
+      "image": "assets/bece-certificate.png",
+      "title": "BECE Certificate",
+      "description": "Basic Education Certificate Examination - The foundation of my secondary education journey.",
+      "data": "BECE"
+    },
+    {
+      "image": "assets/academic-awards.png",
+      "title": "Academic Awards",
+      "description": "Recognition for outstanding performance in Mathematics and ICT subjects.",
+      "data": "Academic Awards"
+    },
+    {
+      "image": "assets/extracurricular.png",
+      "title": "Extracurricular",
+      "description": "Certificates from various school activities, competitions, and leadership roles.",
+      "data": "Extracurricular"
+    }
+  ],
+  "interests": [
+    {
+      "icon": "fas fa-shield-alt",
+      "title": "Ethical Hacking",
+      "description": "I'm fascinated by cybersecurity and ethical hacking. Understanding how to protect digital systems and identify vulnerabilities interests me greatly as I prepare for a career in technology."
+    },
+    {
+      "icon": "fas fa-code",
+      "title": "Web Design",
+      "description": "Creating beautiful, functional websites is both an art and a science. I enjoy learning about user experience, responsive design, and the latest web technologies."
+    },
+    {
+      "icon": "fas fa-laptop-code",
+      "title": "Programming",
+      "description": "Beyond web design, I'm interested in software development and learning programming languages that will help me build innovative solutions to real-world problems."
+    }
+  ],
+  "contact": {
+    "formAction": "https://formspree.io/f/xqayynlk",
+    "info": [
+      { "icon": "fas fa-map-marker-alt", "label": "Location", "value": "Ohwim, Ghana" },
+      { "icon": "fas fa-envelope", "label": "Email", "value": "ogbelieverrh@gmail.com" },
+      { "icon": "fas fa-phone", "label": "Phone", "value": "+233 53 497 0884" },
+      { "icon": "fas fa-school", "label": "School", "value": "Toase Senior High School" }
+    ]
+  },
+  "footer": {
+    "about": "General Arts student at Toase Senior High School with a passion for technology, mathematics, and creating digital solutions for the future.",
+    "copyright": "&copy; 2026 Vincent Yeboah (Believer). All rights reserved. | Toase Senior High School",
+    "socialLinks": [
+      { "icon": "fab fa-facebook-f", "url": "https://www.facebook.com/yourusername" },
+      { "icon": "fab fa-twitter", "url": "https://www.twitter.com/yourusername" },
+      { "icon": "fab fa-instagram", "url": "https://www.instagram.com/believerrh" },
+      { "icon": "fab fa-github", "url": "https://www.github.com/in/believer1234" }
+    ]
+  }
+}
